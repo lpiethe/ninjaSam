@@ -1,0 +1,1 @@
+alert("Welcome Warrior Ninja!");
